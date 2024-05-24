@@ -7,10 +7,10 @@ import Heading from "../components/ui/Heading";
 
 const Banner = () => {
   return (
-    <div className="bg-amber-50 border-2 border-red-500 ">
-      <div className=" max-w-7xl  flex flex-col-reverse lg:flex-row mx-auto items-center gap-32  border-2 border-red-500">
-        <div className=" w-full lg:w-7/12 border-2 border-red-500">
-          <Heading className={"border-2 border-red-500"}>
+    <div className="bg-amber-50 ">
+      <div className=" max-w-7xl  flex flex-col-reverse lg:flex-row mx-auto items-center gap-32  ">
+        <div className=" w-full lg:w-7/12 ">
+          <Heading className={""}>
             <span className="text-black ">
               Discover the Power of SoftCraft's
             </span>
