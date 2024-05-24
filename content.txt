@@ -1,0 +1,11 @@
+1.Navbar
+2.Banner
+3.Adv Banner with Logo
+4.Hero
+5.Video Banner
+6.Banner with Card
+7. Hero/Banner
+8. Banner with Pic
+9.slider Banner
+10. banner
+11.Footer
